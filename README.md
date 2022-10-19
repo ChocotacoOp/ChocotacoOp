@@ -9,7 +9,7 @@
 - 🤔 I’m looking for *full stack web developer role*.
 - 💬 An enthusiastic, self-motivated and passionate  back-end web 🕸️ developer with a specialization in JAVA. Problem solving mindset and the ability to perform well      in collaboration.
 - 🌐 Checkout my <a href="https://chocotacoop.github.io/">Portfolio</a>
-- 📮 Checkout my <a href="https://drive.google.com/file/d/14kOIPNdentOC3GyPCquArf1jSBDEOPrX/view?usp=sharing">Resume</a>
+- 📮 Checkout my <a href="https://drive.google.com/file/d/1XkK251ardyr9lIk-29chPEhwB3dgiXIb/view?usp=sharing">Resume</a>
 - 💌 How to reach me [Email](mailto:rajatsantra8116@gmail.com) :)
 - 📖 I’m currently learning SpringBoot
 
