@@ -1,62 +1,77 @@
-### <h1> <h1 align="center"> 🤗 नमस्ते (Namaste)🙏🏻, I'm Rajat Santra!! 🤩 </h1>
-  </br>
-<img align="right" src="https://webbuildinfotech.com/wp-content/uploads/2022/07/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif"  width="350" height="300"/>
-<h2 align="center"> About me 🌱 </h2>
-<h2 align="center"> A self-motivated Java developer from India </h2>
+<h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> I'm <a href="https://www.linkedin.com/in/rajat-santra-412115232/"target="_blank"> Rajat Santra </a></h1>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3>
 
-- 🔭 I’m currently persuing *full stack web developer course at Masai*.
-- 👯 I’m looking to collaborate on: *Developing new and intriguing open-source projects, with the community, for the community*
-- 🤔 I’m looking for *full stack web developer role*.
-- 💬 An enthusiastic, self-motivated and passionate  back-end web 🕸️ developer with a specialization in JAVA. Problem solving mindset and the ability to perform well      in collaboration.
-- 🌐 Checkout my <a href="https://chocotacoop.github.io/">Portfolio</a>
-- 📮 Checkout my <a href="https://drive.google.com/file/d/1XkK251ardyr9lIk-29chPEhwB3dgiXIb/view?usp=sharing">Resume</a>
-- 💌 How to reach me [Email](mailto:rajatsantra8116@gmail.com) :)
-- 📖 I’m currently learning SpringBoot
+<h2 align="left">🚀 About Me</h2>
 
+A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
+   
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChocotacoOp&label=Profile%20views&color=0e75b6&style=flat" alt="Rajat" /> </p>
 
-<h2 aling="left"> Languages and Tools:   <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"></h2>
-<a href= https://github.com/ChocotacoOp?tab=repositories&q=&type=&language=javascript&sort= > <img width="65" height="40"' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/ChocotacoOp?tab=repositories&q=&type=&language=c&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/ChocotacoOp?tab=repositories&q=&type=&language=java&sort= > <img width="65" height="40"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/ChocotacoOp?tab=repositories&q=&type=&language=spring&sort= > <img wwidth="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
-<a href= https://github.com/ChocotacoOp?tab=repositories&q=&type=&language=mysql&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/ChocotacoOp?tab=repositories&q=&type=&language=html&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/ChocotacoOp?tab=repositories&q=&type=&language=css&sort= > <img width="65" height="40"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/ChocotacoOp?tab=repositories&q=&type=&language=github&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/ChocotacoOp?tab=repositories&q=&type=&language=git&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/ChocotacoOp?tab=repositories&q=&type=&language=aws&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/ChocotacoOp?tab=repositories&q=&type=&language=bootstrap&sort= > <imgwidth="65" height="40"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChocotacoOp" alt="Rajat" /></a></p> 
+   
+   
+- 👩‍💻 I'm currently working on improving my skills
+
+- 🧠 I'm currently learning MySQL
+
+- 💬 Ask me about Java/DSA/JS/HTML/CSS/MySQL/Hibernate/Spring Boot/AWS
+
+- Checkout my [Portfolio](https://ChocotacoOp.github.io/)
+
+<a href="https://www.linkedin.com/in/rajat-santra-412115232/" target="_blank">
+  <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_171224.png" alt="LinkedIn Logo" width="130px"/></a>
+
+<a href="https://www.hackerrank.com/rajatsantra8116">
+  <img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" alt="HackerRank Logo" width="130px"/></a>
 
 
-<h2 aling="left"> Connect with me  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"> </h2>
-<a href = 'https://www.linkedin.com/in/rajat-santra-412115232/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
-<a href = 'https://github.com/ChocotacoOp'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href = 'https://twitter.com/rajatsantra93'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ChocotacoOp&left_color=blue&right_color=green) -->
+<!--   ![Visitor Count](https://profile-counter.glitch.me/ChocotacoOp/count.svg) -->
 
+<h2 align="left"><i>Tech Stack :</i></h2>
+<div align="left">
+<!-- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> -->
+<img alt="Java" src="https://img.shields.io/badge/java-f89820.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Spring" src="https://img.shields.io/badge/spring-%f6b9ad.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+<img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-716a47.svg?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</div>
 
+<!-- <h3 align="left">Hosting :</h3> -->
+<h2 align="left"><i>Hosting :</i></h2>
+<div align="left">
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</div><br/>
+<!-- <h3 align="left">Connect with me:</h3> -->
+<h2 align="left"><i>Connect with me:</i></h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/rajat-santra-412115232/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rajatsantra8116@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://twitter.com/rajatsantra93"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</div>
 
-   <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
-
-  | Github Stats | Current Strek  |
-| --- | --- |
-| ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChocotacoOp&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChocotacoOp&theme=tokyonight)](https://git.io/streak-stats) |
-
-
-<!-- Theme color -->
-<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-
-
-| Top Languages | Contribution Graph  |
-| :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=ChocotacoOp&show_icons=true&theme=cobalt" alt="Tridip's Language stats" /> |  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=ChocotacoOp&theme=react-dark&hide_border=true&area=true" height="10%" width="100%"/> |
-
-<div aling="left">
-  
-<h2>&nbsp; Some Programming Humor for you <img align ='left' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-  </div>
-
+<h2 align="center"><i>My Services :</i></h2>
+ <img src="https://github.com/ChocotacoOp/ChocotacoOp/blob/main/back2.png"/>
+ 
+<!--  
+<h2 align="center">📊<i> My Static :</i></h2>
+ <img src="https://github.com/ChocotacoOp/ChocotacoOp/blob/main/back.png"/> -->
 
 <br>
 
+<h2 align="center">📊<i> My Github Stats :</i></h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ChocotacoOp&theme=highcontrast" alt="Rajat Santra" height="250px" width="45%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ChocotacoOp&theme=highcontrast&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
+</div>
+  
+</br>  
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChocotacoOp&layout=default&langs_count=8&hide=&theme=highcontrast" alt="Rajat Santra" height="275px" width="30%"/>
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=ChocotacoOp&theme=xcode"&height="275px" width="65%"/>
+</div>
