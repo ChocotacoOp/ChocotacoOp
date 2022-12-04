@@ -66,7 +66,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <h2 align="center">📊<i> My Github Stats :</i></h2>
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ChocotacoOp&theme=highcontrast" alt="Rajat Santra" height="250px" width="45%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ChocotacoOp&theme=highcontrast&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ChocotacoOp&theme=highcontrast&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="44%"/>
 </div>
   
 </br>  
